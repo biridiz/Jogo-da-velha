@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 import '../styles/index.css';
-import Board from '../pages/index';
+import Game from '../pages/index';
 
 class Index extends Component {
     state = {};
     render() {
-      return <Board />;
+      return <Game />;
     }
   }
   
