@@ -14,7 +14,7 @@ Here are the technologies used in this project.
  
 ## Getting started
  
-* To install gems:
+* To install:
 >    $ npm install next react react-dom
 
 * To run the project:
